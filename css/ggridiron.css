@@ -29,8 +29,7 @@
 .jqueryslidemenu ul li {
 	position: relative;
 	display: inline;
-	float: left;
-  background: #212121; }
+	float: left; }
 
 .jqueryslidemenu ul li.first a {
   margin-left: 0;
@@ -167,14 +166,12 @@ color: #000;
 	margin: 5px;
 	border: 1px solid #2F2F2F;
 	background-color: #212121;
-
     -webkit-border-top-left-radius: 3px;
     -webkit-border-top-right-radius: 3px;
     -moz-border-radius-topleft: 3px;
     -moz-border-radius-topright: 3px;
     border-top-left-radius: 3px;
     border-top-right-radius: 3px;
-
     -webkit-border-bottom-left-radius: 3px;
     -webkit-border-bottom-right-radius: 3px;
     -moz-border-radius-bottomleft: 3px;
@@ -196,14 +193,12 @@ color: #000;
 	margin: 5px;
 	border: 1px solid #2F2F2F;
 	background-color: #212121;
-
     -webkit-border-top-left-radius: 3px;
     -webkit-border-top-right-radius: 3px;
     -moz-border-radius-topleft: 3px;
     -moz-border-radius-topright: 3px;
     border-top-left-radius: 3px;
     border-top-right-radius: 3px;
-
     -webkit-border-bottom-left-radius: 3px;
     -webkit-border-bottom-right-radius: 3px;
     -moz-border-radius-bottomleft: 3px;
@@ -494,7 +489,6 @@ A.mainmenuoff:active {
     -moz-border-radius-topright: 5px;
     -webkit-border-top-left-radius: 5px;
     -webkit-border-top-right-radius: 5px;
-
     -moz-border-radius-bottomleft: 5px;
     -moz-border-radius-bottomright: 5px;
     -webkit-border-bottom-left-radius: 5px;
@@ -995,7 +989,6 @@ table.scoresummary {
     background-color: #000;
     border: 1px solid #ccc;
     margin-bottom: 5px; }
-
 #weekly table.two_column_layout {
 	width: 100%;
     padding: 10px;
